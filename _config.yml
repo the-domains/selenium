@@ -1,0 +1,14 @@
+layout_spectrum: 0.4669547926168889
+typography_spectrum: 0.35562100168317556
+color:
+  brandStrength: 0.7060796124860644
+  lightness: 0.5389681621454656
+  saturation: 0.565316271269694
+  rhythmicContrast: 0.6446163146756589
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Selenium
